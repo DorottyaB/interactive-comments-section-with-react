@@ -1,0 +1,68 @@
+{
+  "currentUser": {
+    "image": {
+      "png": "/assets/avatars/image-juliusomo.png",
+      "webp": "/assets/avatars/image-juliusomo.webp"
+    },
+    "username": "juliusomo"
+  },
+  "comments": [
+    {
+      "id": "606bd6f8-e51c-4a1f-b403-504b99329350",
+      "content": "Impressive! Though it seems the drag feature could be improved. But overall it looks incredible. You've nailed the design and the responsiveness at various breakpoints works really well.",
+      "createdAt": "1 month ago",
+      "score": 12,
+      "user": {
+        "image": {
+          "png": "/assets/avatars/image-amyrobson.png",
+          "webp": "/assets/avatars/image-amyrobson.webp"
+        },
+        "username": "amyrobson"
+      },
+      "replies": []
+    },
+    {
+      "id": "ef9105ed-d023-40ec-bab0-c97b66ad7e92",
+      "content": "Woah, your project looks awesome! How long have you been coding for? I'm still new, but think I want to dive into React as well soon. Perhaps you can give me an insight on where I can learn React? Thanks!",
+      "createdAt": "2 weeks ago",
+      "score": 5,
+      "user": {
+        "image": {
+          "png": "/assets/avatars/image-maxblagun.png",
+          "webp": "/assets/avatars/image-maxblagun.webp"
+        },
+        "username": "maxblagun"
+      },
+      "replies": [
+        {
+          "id": "ed57a22c-e8f6-4a4e-be38-80320a79fbad",
+          "content": "If you're still new, I'd recommend focusing on the fundamentals of HTML, CSS, and JS before considering React. It's very tempting to jump ahead but lay a solid foundation first.",
+          "createdAt": "1 week ago",
+          "score": 4,
+          "replyingTo": "maxblagun",
+          "user": {
+            "image": {
+              "png": "/assets/avatars/image-ramsesmiron.png",
+              "webp": "/assets/avatars/image-ramsesmiron.webp"
+            },
+            "username": "ramsesmiron"
+          }
+        },
+        {
+          "id": "b29c5b61-defd-4cb5-83ff-ab16c6c2c4dc",
+          "content": "I couldn't agree more with this. Everything moves so fast and it always seems like everyone knows the newest library/framework. But the fundamentals are what stay constant.",
+          "createdAt": "2 days ago",
+          "score": 2,
+          "replyingTo": "ramsesmiron",
+          "user": {
+            "image": {
+              "png": "/assets/avatars/image-juliusomo.png",
+              "webp": "/assets/avatars/image-juliusomo.webp"
+            },
+            "username": "juliusomo"
+          }
+        }
+      ]
+    }
+  ]
+}
