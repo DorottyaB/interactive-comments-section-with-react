@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/DorottyaB/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/DorottyaB/interactive-comments-section-with-react)
+- Live Site URL: [on Vercel](https://interactive-comments-section-with-react.vercel.app/)
 
 ### Built with
 
