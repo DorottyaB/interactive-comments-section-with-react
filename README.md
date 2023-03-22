@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/DorottyaB/interactive-comments-section-with-react)
-- Live Site URL: [on Vercel](https://interactive-comments-section-with-react.vercel.app/)
+- Live Site URL: [interactive-comments-section-dorottyab.vercel.app](https://interactive-comments-section-dorottyab.vercel.app/)
 
 ### Built with
 
